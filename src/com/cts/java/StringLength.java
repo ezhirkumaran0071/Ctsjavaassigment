@@ -1,0 +1,11 @@
+package com.cts.java;
+
+public class StringLength 
+	{
+		public void length(String a)
+		{
+			System.out.println(a.length());
+		
+	}
+
+}
